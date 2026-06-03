@@ -9,21 +9,6 @@
 
 ---
 
-### 📊 Competitive Programming
-
-<p align="left">
-  <a href="https://www.codewars.com/users/Codymur">
-    <img src="https://www.codewars.com/users/Codymur/badges/large" alt="Codewars Badge"/>
-  </a>
-</p>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Codymur)
-
-- **Codewars:** Achieved **5 kyu** rank in Python — Top 37% worldwide
-- **LeetCode:** Actively solving Easy & Medium problems — Two Sum, FizzBuzz, Palindrome Number, Reverse String
-
----
-
 ### 🧰 Languages and Tools
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -46,6 +31,21 @@
   <li><b>Game Jams & Hackathons:</b> Active participant in international game jams — GMTK Game Jam 2022 (ranked <b>1415th out of 6,015</b> participants), Magara Jam #3 (<b>Top 100 out of 497</b> entries), Atom Game Jam #2, and Turkic Game Jam 2026.</li>
   <li><b>Robotics & Smart Systems:</b> Team leader for the "Smart City" project at RoboGames 2022. Developed a wireless, air-controlled mouse prototype using Arduino and Bluetooth communication.</li>
 </ul>
+
+---
+
+### 📊 Competitive Programming
+
+<p align="left">
+  <a href="https://www.codewars.com/users/Codymur">
+    <img src="https://www.codewars.com/users/Codymur/badges/large" alt="Codewars Badge"/>
+  </a>
+</p>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Codymur)
+
+- **Codewars:** Achieved **5 kyu** rank in Python — Top 37% worldwide
+- **LeetCode:** Actively solving Easy & Medium problems — Two Sum, FizzBuzz, Palindrome Number, Reverse String
 
 ---
 

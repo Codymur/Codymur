@@ -44,7 +44,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Codymur)
 
-- **Codewars:** Achieved **5 kyu** rank in Python — Top 25% worldwide
+- **Codewars:** Achieved **5 kyu** rank in Python — Top 20% worldwide
 - **LeetCode:** Actively solving Easy & Medium problems — Two Sum, FizzBuzz, Palindrome Number, Reverse String
 
 ---
